@@ -1,2 +1,2 @@
 Aqui ficaram todos os tipos de imagem do projeto.
-ex: *.png, *.jpg 
+ex: *.png, *.jpg .txt
